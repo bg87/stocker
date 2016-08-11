@@ -12,6 +12,7 @@ gem 'devise'
 gem 'twitter-bootstrap-rails', '~> 3.2', '>= 3.2.2'
 gem 'devise-bootstrap-views'
 gem 'therubyracer', '~> 0.12.2'
+gem 'stock_quote'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
